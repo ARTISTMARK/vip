@@ -14,5 +14,6 @@ ARTISTMARK VIP — GITHUB UPLOAD INSTRUCTIONS
 
 IMPORTANT
 - index.html and every JPG/JPEG image must appear together in the repository's main file list.
+- ARTISTMARK_Presentation.pdf must also appear in that same main file list.
 - Do not rename any files.
 - GitHub filenames are case-sensitive.
