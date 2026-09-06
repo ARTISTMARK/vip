@@ -1,0 +1,18 @@
+ARTISTMARK VIP — GITHUB UPLOAD INSTRUCTIONS
+
+1. Unzip ARTISTMARK_VIP_GitHub_Ready.zip on your computer.
+2. Open your GitHub repository named vip.
+3. Delete the old website files, or replace them during upload.
+4. Select Add file > Upload files.
+5. Open the unzipped folder and select ALL files inside it at once.
+6. Drag the selected files onto GitHub. Do not upload the enclosing folder itself.
+7. Select Commit changes.
+8. Go to Settings > Pages.
+9. Under Build and deployment, select Deploy from a branch.
+10. Select main and /(root), then select Save.
+11. Wait 2–5 minutes and use the URL displayed under Settings > Pages.
+
+IMPORTANT
+- index.html and every JPG/JPEG image must appear together in the repository's main file list.
+- Do not rename any files.
+- GitHub filenames are case-sensitive.
